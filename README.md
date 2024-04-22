@@ -1,3 +1,7 @@
+
+![SSHawk Logo](https://github.com/ahmedyusef9/SSHawk/assets/logo.png "SSHawk Logo")
+
+
 # SSHawk
 
 SSHawk is a powerful tool designed for system administrators and security professionals to discover, monitor, and manage SSH tunnels on Linux and Windows systems. It offers essential insights into SSH traffic, allowing users to detect unauthorized or suspicious SSH activities directly through a command-line interface.
