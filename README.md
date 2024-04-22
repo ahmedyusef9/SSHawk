@@ -1,5 +1,5 @@
 
-![SSHawk Logo](https://github.com/ahmedyusef9/SSHawk/blob/main/assets/logo.png "SSHawk Logo")
+![SSHawk Logo](https://github.com/ahmedyusef9/SSHawk/blob/main/assets/logo_1.png "SSHawk Logo")
 
 
 # SSHawk
