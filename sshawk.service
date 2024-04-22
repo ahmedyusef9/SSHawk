@@ -1,0 +1,11 @@
+[Unit]
+Description=SSHawk Agent Service
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/local/bin/sshawk --config /etc/sshawk/sshawk.config
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
